@@ -1,9 +1,2 @@
-## My Youtube Channel
-
-[Link](https://www.youtube.com/channel/UCuEPriWzAswXrrMrwvthT5A/videos)
-
-### Contact
-
-[Link](http://facebook.com/zaurhlee)
-[Link](http://zaurhasanli.github.io)
-
+[My youtube channel](https://www.youtube.com/channel/UCuEPriWzAswXrrMrwvthT5A/videos)
+[My facebook profile](https://www.facebook.com/zaurhlee)
